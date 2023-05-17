@@ -1,0 +1,11 @@
+h1, button,body{
+    background-image: url("https://lolwp.com/wp-content/uploads/Surfer-Singed.jpg") ;
+    background-size: 100%;
+        background-color: white;
+color: dodgerblue;
+border: 5px, solid, rgba(2, 19, 255, 0.966);
+border-radius: 5px;
+}
+h2{background-color: black;
+color: deepskyblue;
+}
